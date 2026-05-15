@@ -92,3 +92,5 @@ gradeops/
     ├── utils/
     │   └── file_helpers.py   # PDF to image conversion
     └── uploads/              # Local storage for files
+
+**[Click here to watch the video demonstration (Google Drive)](https://drive.google.com/file/d/1WNSPTo_mxf5nD0VzGS7AlrvCaHEVBSTw/view?usp=sharing)**
