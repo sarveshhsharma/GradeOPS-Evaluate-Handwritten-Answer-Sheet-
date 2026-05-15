@@ -1,4 +1,4 @@
-# GRADEOPS: AI-Assisted Student Answer-Sheet Grading App 📝🤖
+# GRADEOPS: AI-Assisted Student Answer-Sheet Grading App 
 
 An intelligent, full-stack platform designed to automate the evaluation of handwritten examination papers. GRADEOPS utilizes a localized AI processing pipeline to read student answer sheets, extract text, evaluate answers against a rubric, detect plagiarism, and enable a Human-in-the-Loop (HITL) review process. 
 
